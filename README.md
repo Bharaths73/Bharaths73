@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a  Motivated and skilled MCA graduate with a strong background in full-stack web development, backend services, and database management. I enjoy building scalable, efficient, and secure applications, and I have hands-on experience working with a variety of technologies and frameworks.
+Hi there! 👋<br>I'm a skilled MCA graduate with a strong background in full-stack web development, backend services, and database management. I enjoy building scalable, efficient, and secure applications, and I have hands-on experience working with a variety of technologies and frameworks.
 
 
 ## 🌐 Socials:
